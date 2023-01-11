@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start,#numero_de_objetos,#status{
+ font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:rgb(80, 62, 50);
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(186, 186, 186);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid wheat;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow:rgb(138, 180, 186);
+}
